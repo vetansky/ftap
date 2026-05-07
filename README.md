@@ -1,0 +1,2 @@
+# ftap
+AI govno
